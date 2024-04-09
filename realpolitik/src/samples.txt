@@ -1,10 +1,18 @@
 **Society:**
 
 1. Do you believe in the importance of social welfare programs, such as universal healthcare and unemployment benefits, to ensure a fair and just society?
+    - The government should play a larger role in supporting social welfare.
 2. What is your stance on issues related to gender equality, including pay equity and reproductive rights?
+    - Pay should be based on ability, not gender.
+    - The government must have a say in reproductive rights.
 3. How do you view the role of government in regulating social issues such as marriage equality and drug legalization?
+    - Marijuana should not be legalized federally.
+    - More focus should be put into rehabilitating drug addicts, rather than punishing them.
+    - The government should not decided who gets to marry whom.
 4. Should there be strict immigration policies to protect national identity, or should there be more open borders to foster diversity and inclusion?
+    - Open borders benefit society.
 5. Do you support affirmative action policies to address historical inequalities and promote diversity in education and the workforce?
+    - DEI should not be promoted in schools or the workplace.
 
 **Economy:**
 
