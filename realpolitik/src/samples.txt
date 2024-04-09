@@ -2,6 +2,7 @@
 
 1. Do you believe in the importance of social welfare programs, such as universal healthcare and unemployment benefits, to ensure a fair and just society?
     - The government should play a larger role in supporting social welfare.
+    - Access to affordable housing and healthcare is a right.
 2. What is your stance on issues related to gender equality, including pay equity and reproductive rights?
     - Pay should be based on ability, not gender.
     - The government must have a say in reproductive rights.
@@ -35,6 +36,7 @@
 
 1. Where do you stand on civil liberties such as freedom of speech, freedom of the press, and the right to privacy in the digital age?
     - News publishers are obligated to report facts.
+    - Anything posted in a public forum should be protected, no matter how harmful.
 2. Should there be restrictions on gun ownership to reduce violence and ensure public safety, or should citizens have the right to bear arms with minimal regulation?
     - Everyone should be allowed to own a gun.
 3. What is your view on government surveillance programs in the name of national security, balancing privacy concerns with the need to prevent terrorism and crime?

@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="quiz-container">
       <div className="society">
-        <h1 className="q-header">Society</h1>
+        <h2 className="q-header">Society</h2>
         <div className="q-wrapper">
           <p className="question"></p>
           <button className="dis-str">Strongly Disagree</button>
@@ -14,9 +14,12 @@ function App() {
           <button className="agr">Agree</button>
           <button className="agr-str">Strongly Agree</button>
         </div>
+      </div>
+      <div className="button-container">
+      <button className="continue">Continue</button>
       </div>
       <div className="economy">
-        <h1 className="question-header">Economy</h1>
+        <h2 className="question-header">Economy</h2>
         <div className="q-wrapper">
           <p className="question"></p>
           <button className="dis-str">Strongly Disagree</button>
@@ -25,9 +28,12 @@ function App() {
           <button className="agr">Agree</button>
           <button className="agr-str">Strongly Agree</button>
         </div>
+      </div>
+      <div className="button-container">
+      <button className="continue">Continue</button>
       </div>
       <div className="liberty">
-        <h1 className="question-header">Liberty</h1>
+        <h2 className="question-header">Liberty</h2>
         <div className="q-wrapper">
           <p className="question"></p>
           <button className="dis-str">Strongly Disagree</button>
@@ -37,8 +43,11 @@ function App() {
           <button className="agr-str">Strongly Agree</button>
         </div>
       </div>
+      <div className="button-container">
+      <button className="continue">Continue</button>
+      </div>
       <div className="nationalism">
-        <h1 className="question-header">Nationalism</h1>
+        <h2 className="question-header">Nationalism</h2>
         <div className="q-wrapper">
           <p className="question"></p>
           <button className="dis-str">Strongly Disagree</button>
@@ -47,6 +56,12 @@ function App() {
           <button className="agr">Agree</button>
           <button className="agr-str">Strongly Agree</button>
         </div>
+      </div>
+      <div className="button-container">
+      <button className="get-results">See Results</button>
+      </div>
+      <div className="scoring">
+        <p>Your Score:</p>
       </div>
     </div>
   );
