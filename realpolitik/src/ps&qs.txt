@@ -20,6 +20,7 @@ Nationalism
     -military strength
     -global interventions, retaliations (home and abroad), etc...
     -trust in leaders
+    -patriotism
 
 Features
     *build out horseshoe
