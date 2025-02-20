@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Society, Economy, Liberty, Nationalism } from "./components/index.js";
 import "./App.css";
+import Scoring from "./components/scoring";
 
 function App() {
   return (
@@ -9,12 +10,7 @@ function App() {
       <Economy />
       <Liberty />
       <Nationalism />
-      <div>
-        <button className="get-results">See Results</button>
-      </div>
-      <div className="scoring">
-        <p>Your Score:</p>
-      </div>
+      <Scoring />
     </div>
   );
 }

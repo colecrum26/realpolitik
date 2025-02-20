@@ -14,12 +14,19 @@ p {
   max-width: 300px;
 }
 
+.q-header {
+  text-align: center;
+}
 .q-wrapper {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 505px;
+  min-width: 505px;
+  margin: 12px 0;
   border: 2px solid red;
+}
+.question {
+  margin: 0.5rem;
 }
 
 .answer-field {
@@ -33,7 +40,7 @@ p {
   margin: 2px;
 }
 
-.continue {
+.button-container {
   margin-top: 8px;
 }
 

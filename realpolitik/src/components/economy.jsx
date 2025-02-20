@@ -2,7 +2,7 @@ export default function Economy() {
   return (
     <div className="quiz-container">
       <div className="economy">
-        <h2 className="question-header">Economy</h2>
+        <h2 className="q-header">Economy</h2>
         <div className="q-wrapper">
           <p className="question">Regulation is good for business.</p>
           <div className="answer-field">
