@@ -1,4 +1,13 @@
-export default function Society() {
+import { useState } from "react";
+import calcScore from "./helpers/scoring";
+
+export default function Society({
+    // answerWeight, 
+    // setAnswerWeight
+}) {
+    const [answerWeight, setAnswerWeight] = useState([]);
+    console.log(answerWeight);
+
   return (
     <div className="quiz-container">
       <div className="society">
@@ -9,7 +18,8 @@ export default function Society() {
             welfare.
           </p>
           <div className="answer-field">
-            <button className="dis-str">Strongly Disagree</button>
+            {/* make button component to simplify answer weighting */}
+            <button className="dis-str" onClick={() => {setAnswerWeight(calcScore)}}>Strongly Disagree</button>
             <button className="dis">Disagree</button>
             <button className="neu">Neutral</button>
             <button className="agr">Agree</button>
